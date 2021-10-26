@@ -1,0 +1,26 @@
+.first{
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px maroon;
+    height: 222px;
+    font-size: 29;
+    color: rgb(245, 241, 0);
+    font-weight: lighter;
+}
+
+.bleh{
+    float: none;
+    font-size: 22;
+    box-shadow: 5px 5px 5px tomato;
+}
+
+#wheeee{
+    color: indianred;
+    font-size: x-large;
+    border-radius: 20px;
+    font-weight: bolder;
+}
+
+body{
+    background-size: cover;
+}
